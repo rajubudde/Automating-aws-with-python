@@ -11,4 +11,4 @@ Webtron currently has following features
 
 - List Bucket
 - List content of a bucket
-
+- set bucket policy
